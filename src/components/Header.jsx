@@ -9,7 +9,7 @@ const Header = () => {
         alt="artificial-intelligence"
         marginBottom="1rem"
       />
-      <Heading color="gray.100">IntelliKeywords</Heading>
+      <Heading color="gray.300">IntelliKeywords</Heading>
       <Text fontSize={25} textAlign="center">
         "Simply input your text below, and let us effortlessly extract the
         keywords for you."
